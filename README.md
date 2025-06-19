@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu Khanh Nam</h1>
-<h3 align="center">A Second-year student majoring in Data Science and Artificial Intelligence at HUIT(Ho Chi Minh City University of Industry and Trade)</h3>
+<h3 align="center">A Third-year student majoring in Data Science and Artificial Intelligence at HUIT(Ho Chi Minh City University of Industry and Trade)</h3>
 
 - 🌱 I’m currently learning **Machine Learning Specialization**
 
